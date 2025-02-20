@@ -1,0 +1,21 @@
++++
+title = "About"
+date = "2023-10-01"
+aliases = ["about-us","about-hugo","contact"]
+[ author ]
+  name = "Ikhwan S. H"
++++
+
+```go
+package main
+
+import "fmt"
+
+func main() {
+    fmt.Println("Welcome to `openbacktick :D")
+}
+```
+
+Welcome to my personal (dev) blogs. I plan to write my dev blogs on learning programming which I'm still quite newbie at. Perhaps I might also write a few tutorial here aswell. 
+
+Checkout my GitHub at [https://github.com/perfect-less](https://github.com/perfect-less).
